@@ -7,6 +7,16 @@ version: 1.0.0
 
 # Tenant Reference Letter Writer
 
+## Important â€” For the Referrer Only
+
+This skill is for the person providing the reference (the referrer â€” typically a current or previous landlord or property manager), not the tenant being recommended (the subject). Before proceeding, confirm:
+- The user is the referrer themselves, not the tenant asking for a letter to self-sign
+- The referrer actually rented property to the subject during the period described
+- Every fact stated â€” payment history, property condition, conduct â€” can be verified by the referrer
+- The referrer will sign the letter themselves
+
+If the user is the subject (the tenant), stop and explain that the actual landlord must use this skill. A forged landlord reference used to obtain housing is fraud and can result in lease termination or legal action.
+
 ## What This Skill Does
 Writes a personalised landlord reference letter for a tenant and saves it as a formatted PDF or Word document.
 
@@ -80,4 +90,3 @@ Ask: "Would you like to adjust anything â€” add more detail about the tenan
 
 ## Expected Output
 A professionally formatted PDF or Word document (approximately 1 page) containing a formal tenant reference letter. The letter confirms the tenant's rental history, highlights specific examples of their conduct as a renter, and is addressed to the specified recipient. The file is saved in the user's Downloads folder.
-

@@ -7,6 +7,16 @@ version: 1.0.0
 
 # Academic Reference Letter Writer
 
+## Important â€” For the Referrer Only
+
+This skill is for the person providing the academic reference (the referrer â€” a professor, research supervisor, or senior academic), not the applicant (the subject). Before proceeding, confirm:
+- The user is the referrer themselves, not the applicant asking for a letter to self-sign
+- The referrer has supervised, taught, or collaborated with the subject in the capacity described
+- Every fact stated â€” research contributions, publications, intellectual qualities â€” can be verified by the referrer
+- The referrer will sign the letter themselves
+
+If the user is the subject (the applicant), stop and explain that the actual professor or supervisor must use this skill. Drafting a reference about yourself for another academic to sign is research misconduct and can result in rescinded admission, grant withdrawal, or institutional sanction.
+
 ## What This Skill Does
 Writes a personalised academic reference letter for a scholar, researcher, or academic and saves it as a formatted PDF or Word document. Used for tenure-track appointments, research grants, postdoctoral positions, conference presentations, or academic awards.
 
@@ -80,4 +90,3 @@ Ask: "Would you like to adjust anything â€” add more detail about their res
 
 ## Expected Output
 A professionally formatted PDF or Word document (approximately 1â€“2 pages) containing a formal academic reference letter. The letter is addressed to the specified recipient, references 2â€“3 specific academic achievements or research contributions, and closes with a clear and strong recommendation. The file is saved in the user's Downloads folder.
-

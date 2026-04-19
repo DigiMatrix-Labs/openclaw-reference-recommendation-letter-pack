@@ -7,6 +7,16 @@ version: 1.0.0
 
 # Character Reference Letter Writer
 
+## Important â€” For the Referrer Only
+
+This skill is for the person providing the character reference (the referrer â€” a friend, colleague, mentor, community leader, or other person who knows the subject personally), not the subject. Before proceeding, confirm:
+- The user is the referrer themselves, not the subject asking for a letter to self-sign
+- The referrer personally knows the subject in the capacity described
+- Every fact stated in the letter can be verified by the referrer
+- The referrer will sign the letter themselves
+
+If the user is the subject, stop and explain that the actual referrer must use this skill. Character references are often submitted to courts, immigration authorities, licensing bodies, and employers â€” a forged character reference used in legal or official proceedings can be perjury or fraud.
+
 ## What This Skill Does
 Writes a personalised character reference letter and saves it as a formatted PDF or Word document. The letter is written by someone who knows the subject well personally â€” not as an employer or teacher â€” and vouches for their trustworthiness, reliability, and good character.
 
@@ -79,4 +89,3 @@ Ask: "Would you like to adjust anything â€” add more detail, change the ton
 
 ## Expected Output
 A professionally formatted PDF or Word document (approximately 1â€“2 pages) containing a formal character reference letter. The letter is addressed to the specified recipient, includes 2â€“3 specific examples of the subject's good character, and closes with a clear and sincere recommendation. The file is saved in the user's Downloads folder.
-

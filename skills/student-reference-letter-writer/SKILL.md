@@ -7,6 +7,16 @@ version: 1.0.0
 
 # Student Reference Letter Writer
 
+## Important â€” For the Referrer Only
+
+This skill is for the person providing the reference (the referrer â€” typically a teacher, professor, counsellor, or academic advisor), not the student being recommended (the subject). Before proceeding, confirm:
+- The user is the referrer themselves, not the student asking for a letter to self-sign
+- The referrer has taught, supervised, or advised the student in the capacity described
+- Every fact stated in the letter can be verified by the referrer
+- The referrer will sign the letter themselves
+
+If the user is the subject (the student), stop and explain that the actual teacher or advisor must use this skill. Drafting a reference about yourself for someone else to sign is academic misconduct and can result in rescinded admission when discovered.
+
 ## What This Skill Does
 Writes a personalised academic reference letter for a student and saves it as a formatted PDF or Word document.
 
@@ -82,4 +92,3 @@ Ask: "Would you like to adjust anything â€” add more detail, change the ton
 
 ## Expected Output
 A professionally formatted PDF or Word document (approximately 1â€“2 pages) containing a formal academic reference letter. The letter is addressed to the specified recipient, highlights 2â€“3 specific examples of the student's abilities, and closes with a clear recommendation. The file is saved in the user's Downloads folder.
-
