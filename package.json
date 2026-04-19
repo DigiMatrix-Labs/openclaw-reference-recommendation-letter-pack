@@ -1,0 +1,20 @@
+﻿{
+  "name": "openclaw-reference-recommendation-letter-pack",
+  "version": "1.0.0",
+  "description": "Five AI-powered skills for writing professional reference and recommendation letters",
+  "author": "Skills Company",
+  "license": "MIT",
+  "skillsmp": {
+    "type": "skill-pack",
+    "tier": "premium",
+    "price": 15,
+    "skills": [
+      "skills/student-reference-letter-writer",
+      "skills/employee-recommendation-letter-writer",
+      "skills/tenant-reference-letter-writer",
+      "skills/character-reference-letter-writer",
+      "skills/academic-reference-letter-writer"
+    ]
+  }
+}
+
